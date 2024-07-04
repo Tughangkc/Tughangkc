@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 Nice to see you 🤓  I'm Tughan</h1>
 <h3 align="center">Creative and motivated frontend developer.</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://steamuserimages-a.akamaihd.net/ugc/272843630089408934/5982913D73F9CDAC07936CF2D5571F8D87BED326/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/272843630089408934/5982913D73F9CDAC07936CF2D5571F8D87BED326/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)">
 
 - 🔭 I’m currently using the technologies **React, Next.js, JavaScript**
 - 🌱 I’m currently learning **TypeScript, Tailwind**
