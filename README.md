@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Nice to see you 🤓. I'm Tughan</h1>
+<h1 align="center">Hi 👋 Nice to see you 🤓  I'm Tughan</h1>
 <h3 align="center">Creative and motivated frontend developer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/272843630089408934/5982913D73F9CDAC07936CF2D5571F8D87BED326/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
